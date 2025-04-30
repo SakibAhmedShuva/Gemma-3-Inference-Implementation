@@ -40,3 +40,6 @@ The notebook provides three main implementations:
 - Streaming implementation uses threading for non-blocking generation
 - GPU implementation uses half-precision (float16) when running on CUDA
 - Chat history is maintained across interactions for contextual responses
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
