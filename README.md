@@ -41,5 +41,9 @@ The notebook provides three main implementations:
 - GPU implementation uses half-precision (float16) when running on CUDA
 - Chat history is maintained across interactions for contextual responses
 
+## IMPORTANT:
+Below transformers version or a more upgraded compatible version is required:
+!pip install git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
