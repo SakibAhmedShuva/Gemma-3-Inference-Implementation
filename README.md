@@ -43,6 +43,7 @@ The notebook provides three main implementations:
 
 ## IMPORTANT:
 Below transformers version or a more upgraded compatible version is required:
+
 !pip install git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
 
 ## License
